@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Moana Caroline!
 - 🌱 I’m currently learning C.
 
-- 📫 How to reach me IG @mccsena
+- 📫 How to reach me IG @sena.moana
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcoelh&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
