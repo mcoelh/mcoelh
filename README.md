@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Moana Caroline!
 - 🌱 I’m currently learning C.
-- 📫 How to reach me IG @sena.moana
+- 📫 How to reach me mcoelho-@student.42.rio
