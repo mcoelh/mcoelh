@@ -22,6 +22,8 @@
 | PHILOSOPHERS        | [![mcoelho-'s 42 Philosophers Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3026281)](https://github.com/JaeSeoKim/badge42) |
 | MINISHELL           |  [![mcoelho-'s 42 minishell Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3033108)](https://github.com/JaeSeoKim/badge42) |
 | EXAM RANK 03        | [![mcoelho-'s 42 Exam Rank 03 Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3055672)](https://github.com/JaeSeoKim/badge42) |
+| NET PRACTICE        | [![mcoelho-'s 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3187965)](https://github.com/JaeSeoKim/badge42) |
+| EXAM RANK 04        | [![mcoelho-'s 42 NetPractice Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3187965)](https://github.com/JaeSeoKim/badge42) |
 | CUB3D               | [![mcoelho-'s 42 cub3d Score](https://badge42.vercel.app/api/v2/cljz524bx002108kxwgglr3f9/project/3102059)](https://github.com/JaeSeoKim/badge42) |
 
 </div>
